@@ -21,6 +21,6 @@
 
 <br clear="both">
 
-[<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />](https://github.com/ibrahimAlAssi/ibrahimAlAssi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ibrahimAlAssi/ibrahimAlAssi/blob/output/github-contribution-grid-snake.gif)
 
 ###
