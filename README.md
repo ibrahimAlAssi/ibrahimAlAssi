@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! I'm ibrahim , Back-end Developer</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimAlAssi&show_icons=true&locale=en&layout=compact" alt="ibrahimAlAssi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimAlAssi&show_icons=true&locale=en" alt="ibrahimAlAssi" /></p>
 <section align="center">
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
