@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! I'm ibrahim , Back-end Developer</h2>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimalassi&show_icons=true&locale=en&layout=compact" alt="ibrahimalassi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimalassi&show_icons=true&locale=en" alt="ibrahimalassi" /></p>
+
+
 ![snake gif](https://github.com/ibrahimAlAssi/ibrahimAlAssi/blob/output/snake.svg)
 
 
