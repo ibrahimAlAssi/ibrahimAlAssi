@@ -1,21 +1,7 @@
 ### Hi! 👋 I'm Ibrahim , A Backend-end Developer
-![snake gif](https://github.com/ibrahimAlAssi/ibrahimAlAssi/blob/output/snake.svg)
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/ibrahimAlAssi/ibrahimAlAssi/blob/output/snake.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/ibrahimAlAssi/ibrahimAlAssi/blob/output/snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    srcset="https://github.com/ibrahimAlAssi/ibrahimAlAssi/blob/output/snake.svg"
-  />
-</picture>
 
 ###
+![snake gif](https://github.com/ibrahimAlAssi/ibrahimAlAssi/blob/output/snake.svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
