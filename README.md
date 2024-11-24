@@ -1,4 +1,5 @@
 ### Hi! 👋 I'm Ibrahim , A Backend-end Developer
+![snake gif](https://github.com/ibrahimAlAssi/ibrahimAlAssi/blob/output/snake.svg)
 
 ###
 
@@ -21,6 +22,5 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/ibrahimAlAssi/ibrahimAlAssi/blob/output/snake.svg)
 
 ###
